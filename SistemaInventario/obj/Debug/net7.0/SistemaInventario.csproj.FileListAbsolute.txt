@@ -55,7 +55,6 @@ C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.AssemblyInfoInputs.cache
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.AssemblyInfo.cs
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.csproj.CoreCompileInputs.cache
-C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.RazorAssemblyInfo.cache
 C:\Users\ediso\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.RazorAssemblyInfo.cs
